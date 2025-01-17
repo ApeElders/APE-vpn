@@ -3,3 +3,5 @@ https://fsm.name/Recommend
 https://fsm.name/Forums
 https://fsm.name/Torrents
 https://ptfans.cc
+api.fsm.name:443
+fsm.name:443
