@@ -1,3 +1,10 @@
+# MyList && Other
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,adguard.org
+DOMAIN-SUFFIX,bit.no.com
+DOMAIN-SUFFIX,btlibrary.me
+DOMAIN-SUFFIX,cccat.io
+
 DOMAIN-KEYWORD,fsm.name
 DOMAIN-KEYWORD,ptfans
 
