@@ -1,2 +1,6 @@
 DOMAIN-KEYWORD,fsm.name
 DOMAIN-KEYWORD,ptfans
+
+
+DOMAIN-SUFFIX,fsm.name
+DOMAIN-SUFFIX,ptfans
