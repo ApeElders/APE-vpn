@@ -58,6 +58,7 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
+DOMAIN-KEYWORD,MoviePilot-Plugins
 
 # GFW list
 DOMAIN-SUFFIX,gfwlist.start
@@ -6050,6 +6051,7 @@ DOMAIN-SUFFIX,zzcartoon.com
 DOMAIN-SUFFIX,zzcloud.me
 DOMAIN-SUFFIX,zzux.com
 DOMAIN-SUFFIX,gfwlist.end
+
 
 # Amazon
 DOMAIN-SUFFIX,amazon.co.jp
