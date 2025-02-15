@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,tumbex.com
 DOMAIN-SUFFIX,twdvd.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,buzzsprout.com
+DOMAIN-SUFFIX,github.com
 
 
 # 国外域名
@@ -59,5 +60,5 @@ DOMAIN-KEYWORD,telegram
 DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,MoviePilot-Plugins
+DOMAIN-KEYWORD,MoviePilot
 
