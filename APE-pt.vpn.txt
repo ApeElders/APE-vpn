@@ -3,7 +3,9 @@
 #PT代理精准域名
 
 #飞天拉面的网页都需要走代理才能登录
-DOMAIN,fsm.name,policy #飞天拉面主站
-DOMAIN,api.fsm.name,policy #飞天拉面API地址
-DOMAIN,img.fsm.name,policy #图床地址
-DOMAIN,sv.fsm.name,policy #飞天拉面短视频静态资源
+
+DOMAIN-SUFFIX,fsm.name #飞天拉面主站
+
+DOMAIN,api.fsm.name #飞天拉面API地址
+DOMAIN,img.fsm.name #图床地址
+DOMAIN,sv.fsm.name #飞天拉面短视频静态资源
