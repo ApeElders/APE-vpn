@@ -23,3 +23,10 @@ DOMAIN-KEYWORD,twitter
 DOMAIN-KEYWORD,whatsapp
 DOMAIN-KEYWORD,youtube
 
+
+
+#代理精准域名
+DOMAIN-KEYWORD,fsm.name #飞天拉面主站
+DOMAIN-KEYWORD,api.fsm.name #飞天拉面API地址
+DOMAIN-KEYWORD,img.fsm.name #图床地址
+DOMAIN-KEYWORD,sv.fsm.name #飞天拉面短视频静态资源
