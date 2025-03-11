@@ -8,7 +8,7 @@
 
 ;规则集定义
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/qichiyuhub/rule/master/Direct.list
-ruleset=🤪 个人直连,
+ruleset=🤪 个人直连,https://raw.githubusercontent.com/ApeElders/APE-vpn/refs/heads/PT/pt
 ruleset=🤪 个人规则,https://raw.githubusercontent.com/ApeElders/APE-vpn/refs/heads/PT/APE-pt.vpn.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/qichiyuhub/rule/master/ProxyLite.list
 ruleset=🤖 AI,https://raw.githubusercontent.com/qichiyuhub/rule/master/AI.list
