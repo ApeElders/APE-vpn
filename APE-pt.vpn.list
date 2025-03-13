@@ -2,6 +2,9 @@
 
 #PT代理精准域名
 
-#飞天拉面的网页都需要走代理才能登录
+
 DOMAIN,fsm.name
+#飞天拉面的网页都需要走代理才能登录
+DOMAIN,icc2022.com
+#冰淇淋的网页都需要走代理才能登录
 DOMAIN-SUFFIX,qichiyu.com/tuijian
