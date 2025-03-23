@@ -4,3 +4,5 @@
 
 #以下PT站点不走代理才能登录
 DOMAIN,ptcafe.club
+PROCESS-NAME,QiYou.exe
+PROCESS-PATH,C:\Program Files (x86)\QiYou
