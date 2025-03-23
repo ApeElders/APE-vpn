@@ -10,7 +10,6 @@
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/qichiyuhub/rule/master/Direct.list
 ruleset=🤪 个人直连,https://raw.githubusercontent.com/ApeElders/APE-vpn/refs/heads/PT/pt
 ruleset=🤪 个人规则,https://raw.githubusercontent.com/ApeElders/APE-vpn/refs/heads/PT/APE-pt.vpn.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/qichiyuhub/rule/master/ProxyLite.list
 ruleset=🤖 AI,https://raw.githubusercontent.com/qichiyuhub/rule/master/AI.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
@@ -35,7 +34,6 @@ ruleset=📹 YouTube,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Cl
 ruleset=🎥 Netflix,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Netflix.list
 ruleset=🎞️ 国内媒体,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/ChinaMedia/ChinaMedia.list
 ruleset=🌍 国外媒体,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaDomain.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ChinaCompanyIp.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list
@@ -70,8 +68,6 @@ custom_proxy_group=🌍 国外媒体`select`[]♻️ 自动选择`[]🇭🇰 香
 
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 
-custom_proxy_group=🚀 节点选择`select`[]🇭🇰 香港节点`[]🇯🇵 日本节点`[]🇸🇬 加坡节点`[]🇺🇲 美国节点`[]🌐 其他地区`[]🏡 家宽节点`[]🛩️ 高速节点`[]🕊️便宜节点`[]🐸 手动切换`[]DIRECT
-
 custom_proxy_group=🎞️ 国内媒体`select`[]DIRECT`
 custom_proxy_group=🛑 广告拦截`select`[]REJECT`[]DIRECT
 custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT
@@ -79,18 +75,12 @@ custom_proxy_group=🆎 AdBlock`select`[]REJECT`[]DIRECT
 custom_proxy_group=🛡️ 隐私防护`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐟 漏网之鱼`select`[]DIRECT`
 
-
-custom_proxy_group=🏡 家宽节点`select`(家宽|家庭)
-custom_proxy_group=🛩️ 高速节点`select`(?=.*(香港|HK|Hong Kong|🇭🇰|HongKong|日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan))^((?!(深港|家宽|游戏|剩余|流量|0.5|0.5倍|0.5x|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x|5.0|5倍|5x)).)*$
-custom_proxy_group= 🕊️便宜节点`select`(?=.*(0.5|0.5倍|0.5x))
 custom_proxy_group=🇭🇰 香港节点`select`(?=.*(香港|HK|Hong Kong|🇭🇰|HongKong))^((?!(深港|US|家宽|游戏|剩余|流量|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x)).)*$
 custom_proxy_group=🇯🇵 日本节点`select`(?=.*(日本|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|Japan))^((?!(家宽|游戏|剩余|流量|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x)).)*$
 custom_proxy_group=🇸🇬 加坡节点`select`(?=.*(新加坡|坡|狮城|SG|Singapore))^((?!(家宽|游戏|剩余|流量|2.0|2倍|2x|3.0|3倍|3x|4.0|4倍|4x)).)*$
 custom_proxy_group=🇺🇲 美国节点`select`(美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|United States)
 
 custom_proxy_group=🐸 手动切换`select`.*
-
-
 custom_proxy_group=🎥 奈飞节点`select`(NF|奈飞|解锁|Netflix|NETFLIX|Media)
 
 ;启用自定义规则集
